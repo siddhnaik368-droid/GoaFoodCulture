@@ -1,0 +1,4 @@
+<html>
+<head><title> Vegetarian </title></head>
+<body> vegetarian</body>
+</html>

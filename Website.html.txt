@@ -1,0 +1,6 @@
+<!Doctype html>
+<html>
+<head><title>Gradient bg</title></head>
+<link rel="stylesheet" href="Style.css">
+<body> Hello world </body>
+</html>
